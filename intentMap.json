@@ -1,0 +1,17 @@
+{
+    "intents": [
+      {
+        "intent": "Help"
+      },
+      {
+        "intent": "whoIsDonKlein"
+      },
+      {
+        "intent": "WhatDoYouThink"
+      },
+      {
+        "intent": "endSession"
+      }
+    ]
+}
+

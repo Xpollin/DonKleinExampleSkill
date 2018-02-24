@@ -1,0 +1,7 @@
+Help Help
+whoIsDonKlein who is Don Klein
+WhatDoYouThink what do you think about don
+WhatDoYouThink tell me what you think about don
+endSession stop
+endSession exit
+endSession cancel
